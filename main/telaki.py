@@ -2242,7 +2242,7 @@ def rebuild_database():
     # db.session.add(reminder_message1)
     # db.session.add(reminder_message2)
 
-    # db.session.commit()
+    db.session.commit()
 
     return jsonify(
         status = 'success'
