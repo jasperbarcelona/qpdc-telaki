@@ -1863,10 +1863,10 @@ def rebuild_database():
     client = Client(
         client_no='qpdc',
         name='Quezon Province Dental Chapter',
-        app_id='MEoztReRyeHzaiXxaecR65HnqE98tz9g',
-        app_secret='01c5d1f8d3bfa9966786065c5a2d829d7e84cf26fbfb4a47c91552cb7c091608',
-        passphrase='PF5H8S9t7u',
-        shortcode='21586853',
+        app_id='EGXMuB5eEgCMLTKxExieqkCGeGeGuBon',
+        app_secret='f3e1ab30e23ea7a58105f058318785ae236378d1d9ebac58fe8b42e1e239e1c3',
+        passphrase='24BUubukMQ',
+        shortcode='21588479',
         created_at=datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S:%f')
         )
 
